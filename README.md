@@ -15,17 +15,6 @@ The problem of labeling and segmenting sequences of observations arises in many 
 
 ## Required libraries:
 [Requirments](./requirements.txt)
-matplotlib
-scipy
-sklearn
-sklearn_crfsuite
-terminaltables
-nltk
-______________________________
-sklearn_crfsuite  requirments:
-scikit-learn
-Scipy
-Numpy
 
 ## Run
 Simply run [experiments](./expriments.py)
