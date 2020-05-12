@@ -1,0 +1,7 @@
+matplotlib
+numpy
+scipy
+sklearn
+sklearn_crfsuite
+terminaltables
+nltk
