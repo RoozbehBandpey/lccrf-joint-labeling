@@ -14,7 +14,7 @@ This work is the extension of our previous work, which we trained a discriminati
 The problem of labeling and segmenting sequences of observations arises in many different areas, specially in Natural Language Processing, typically sequence labeling task are done through pipelines. For example, information retrieval task; is often chained into: part-of-speech tagging, shallow parsing and then the main extraction task.
 
 ## Required libraries:
-[Requirments](./requirments.txt)
+[Requirments](./requirements.txt)
 matplotlib
 scipy
 sklearn
@@ -28,7 +28,7 @@ Scipy
 Numpy
 
 ## Run
-Simply run [experiments](./Expriments.py)
+Simply run [experiments](./expriments.py)
 
 There are multiple fusion types defined, feel free to play with parameters
 
